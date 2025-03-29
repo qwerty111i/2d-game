@@ -1,0 +1,23 @@
+{
+  "name": "2d-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwerty111i/2d-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwerty111i/2d-game/issues"
+  },
+  "homepage": "https://github.com/qwerty111i/2d-game#readme",
+  "dependencies": {
+    "phaser": "^3.88.2"
+  }
+}
