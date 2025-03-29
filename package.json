@@ -19,5 +19,8 @@
   "homepage": "https://github.com/qwerty111i/2d-game#readme",
   "dependencies": {
     "phaser": "^3.88.2"
+  },
+  "devDependencies": {
+    "vite": "^6.2.3"
   }
 }
